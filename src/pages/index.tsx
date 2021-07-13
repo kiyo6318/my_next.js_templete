@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import { NextPage } from 'next';
 import { Box, Heading } from '@chakra-ui/react';
 
